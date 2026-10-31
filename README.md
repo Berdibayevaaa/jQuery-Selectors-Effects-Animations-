@@ -19,6 +19,8 @@
 - **Task 3:** Fading gallery images (`.fadeIn()`, `.fadeOut()`, `.fadeToggle()`).
 - **Task 4:** Accordion panels using `.slideUp()`, `.slideDown()`, `.slideToggle()`.
 <img width="1049" height="579" alt="image" src="https://github.com/user-attachments/assets/e5698a3d-bc4a-42b2-9837-59fdf7cffd84" />
+<img width="1224" height="607" alt="image" src="https://github.com/user-attachments/assets/fff1aea7-44fa-4fc3-95d2-28fff9d23819" />
+
 
 
 ### Part 3: DOM Manipulation with jQuery
