@@ -34,6 +34,7 @@
 ### Part 4: Animations
 - **Task 8:** Animated skill progress bars using `.animate()` to target percentages and toggling back to zero.
 <img width="799" height="475" alt="image" src="https://github.com/user-attachments/assets/63239506-2101-40cb-a607-182320232d76" />
+<img width="1258" height="620" alt="image" src="https://github.com/user-attachments/assets/0d0ff5b4-e630-423c-a671-cbadb0432aa6" />
 
 
 Summary
