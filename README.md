@@ -40,3 +40,6 @@
 Summary
 
 In this assignment, I implemented key jQuery concepts including DOM selectors, manipulation methods, event handling, built-in display effects, and custom CSS animations. The project is split into isolated files per task and integrated into a single main page for deployment via GitHub Pages.
+<img width="1863" height="1027" alt="image" src="https://github.com/user-attachments/assets/4eae5bd3-2267-4fc6-b44b-95f275f13fd5" />
+<img width="1782" height="999" alt="image" src="https://github.com/user-attachments/assets/aac97e75-3915-4579-a2d1-972e1be29f33" />
+
