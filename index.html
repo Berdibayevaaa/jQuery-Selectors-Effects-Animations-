@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Assignment 6</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+</head>
+<body>
+
+  <div>
+    <a href="part1/task0.html">P1-T0</a> |
+    <a href="part1/task1.html">P1-T1</a> |
+    <a href="part2/task2.html">P2-T2</a> |
+    <a href="part2/task3.html">P2-T3</a> |
+    <a href="part2/task4.html">P2-T4</a> |
+    <a href="part3/task5.html">P3-T5</a> |
+    <a href="part3/task6.html">P3-T6</a> |
+    <a href="part3/task7.html">P3-T7</a> |
+    <a href="part4/task8.html">P4-T8</a>
+  </div>
+
+  <button id="theme-btn">Toggle Theme</button>
+
+  <section>
+    <h1>Welcome to My Portfolio</h1>
+    <h2 id="headline">Original Headline</h2>
+    <p class="intro">Salem,Alem! My name is Sayazhan and I am learning jQuery!</p>
+    <button id="change-text-btn">Change</button>
+  </section>
+  <hr>
+
+  <section>
+    <h2>About Me</h2>
+    <p id="status-text">Currently learning jQuery!</p>
+    <ul id="facts-list">
+      <li>I play table tennis</li>
+      <li>I am actively learning Japanese</li>
+    </ul>
+    <button id="hide-btn">Hide</button>
+    <button id="show-btn">Show</button>
+    <button id="toggle-btn">Toggle</button>
+  </section>
+  <hr>
+
+  <section id="gallery">
+    <h2>Gallery</h2>
+    <img src="https://picsum.photos/id/1018/100/100" alt="img1">
+    <img src="https://picsum.photos/id/1015/100/100" alt="img2">
+    <br>
+    <button id="fadeout-btn">Fade Out</button>
+    <button id="fadein-btn">Fade In</button>
+    <button id="fadetoggle-btn">Fade Toggle</button>
+  </section>
+  <hr>
+
+  <section>
+    <h2>My Favorites</h2>
+    <h3 class="panel-title">My Favorite Music</h3>
+    <div class="panel-content">K-pop</div>
+    <h3 class="panel-title">My Favorite Movie</h3>
+    <div class="panel-content">Legally Blonde</div>
+    <h3 class="panel-title">My Favorite Subject</h3>
+    <div class="panel-content">Web Technologies</div>
+  </section>
+  <hr>
+
+  <section>
+    <h2>Skills List</h2>
+    <input type="text" id="skill-input">
+    <button id="add-btn">Add</button>
+    <button id="prepend-btn">Prepend</button>
+    <button id="remove-btn">Remove</button>
+    <ul id="skill-list">
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JS</li>
+      <li>Git</li>
+    </ul>
+  </section>
+  <hr>
+
+  <section>
+    <h2>Links</h2>
+    <p><a id="my-link" href="https://github.com">GitHub</a></p>
+    <button id="change-link-btn">Change Link</button>
+  </section>
+  <hr>
+
+  <section>
+    <h2>Live Form</h2>
+    <input type="text" id="name-box" placeholder="Name">
+    <input type="email" id="email-box" placeholder="Email">
+    <p>Name: <span id="live-name"></span></p>
+    <p>Email: <span id="live-email"></span></p>
+  </section>
+  <hr>
+
+  <section>
+    <h2>Animations</h2>
+    <button id="animate-btn">Animate My Skills</button>
+    <p>HTML</p>
+    <div class="track"><div class="bar" data-width="90%"></div></div>
+    <p>CSS</p>
+    <div class="track"><div class="bar" data-width="80%"></div></div>
+    <p>JS</p>
+    <div class="track"><div class="bar" data-width="70%"></div></div>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
