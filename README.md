@@ -12,7 +12,7 @@
 - **Task 0:** Setup jQuery via CDN and logged message into console.
 - **Task 1:** Selectors (tag, class, ID), dynamic text, css change, and theme toggle.
 <img width="1287" height="769" alt="image" src="https://github.com/user-attachments/assets/6e6ae620-c4b5-4c14-8b73-47ef61464abe" />
-<img width="1198" height="246" alt="image" src="https://github.com/user-attachments/assets/7ea0cd5a-657e-4422-805a-9e6ac60a4b3e" />
+
 
 
 ### Part 2: jQuery Effects
@@ -29,18 +29,16 @@
 - **Task 6:** Modifying link `href` attribute dynamically using `.attr()`.
 - **Task 7:** Real-time form mirroring via `.val()` and `.text()`.
 - <img width="798" height="340" alt="image" src="https://github.com/user-attachments/assets/e8c41447-5a4b-4489-84e2-cd9af39f0497" />
+<img width="1018" height="237" alt="image" src="https://github.com/user-attachments/assets/6e3b4dc0-3f27-4134-b82a-8c410e55dfba" />
 <img width="879" height="647" alt="image" src="https://github.com/user-attachments/assets/3d040c3d-ecc3-46d1-bcc0-1dbd20f360c1" />
 
 ### Part 4: Animations
 - **Task 8:** Animated skill progress bars using `.animate()` to target percentages and toggling back to zero.
 <img width="799" height="475" alt="image" src="https://github.com/user-attachments/assets/63239506-2101-40cb-a607-182320232d76" />
-<img width="1018" height="237" alt="image" src="https://github.com/user-attachments/assets/6e3b4dc0-3f27-4134-b82a-8c410e55dfba" />
-<img width="1258" height="620" alt="image" src="https://github.com/user-attachments/assets/0d0ff5b4-e630-423c-a671-cbadb0432aa6" />
 
 
 Summary
 
 In this assignment, I implemented key jQuery concepts including DOM selectors, manipulation methods, event handling, built-in display effects, and custom CSS animations. The project is split into isolated files per task and integrated into a single main page for deployment via GitHub Pages.
-<img width="1863" height="1027" alt="image" src="https://github.com/user-attachments/assets/4eae5bd3-2267-4fc6-b44b-95f275f13fd5" />
-<img width="1782" height="999" alt="image" src="https://github.com/user-attachments/assets/aac97e75-3915-4579-a2d1-972e1be29f33" />
+
 
