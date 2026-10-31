@@ -12,15 +12,15 @@
 - **Task 0:** Setup jQuery via CDN and logged message into console.
 - **Task 1:** Selectors (tag, class, ID), dynamic text, css change, and theme toggle.
 <img width="1287" height="769" alt="image" src="https://github.com/user-attachments/assets/6e6ae620-c4b5-4c14-8b73-47ef61464abe" />
-<img width="1100" height="559" alt="image" src="https://github.com/user-attachments/assets/05ce7c68-4458-489e-b89f-f6eca7c3bad1" />
+<img width="1198" height="246" alt="image" src="https://github.com/user-attachments/assets/7ea0cd5a-657e-4422-805a-9e6ac60a4b3e" />
+
 
 ### Part 2: jQuery Effects
 - **Task 2:** Visibility controls (`.hide()`, `.show()`, `.toggle()`).
 - **Task 3:** Fading gallery images (`.fadeIn()`, `.fadeOut()`, `.fadeToggle()`).
 - **Task 4:** Accordion panels using `.slideUp()`, `.slideDown()`, `.slideToggle()`.
+- <img width="862" height="255" alt="image" src="https://github.com/user-attachments/assets/e9c7f26e-a5ac-42bc-a24c-c469b769027d" />
 <img width="1049" height="579" alt="image" src="https://github.com/user-attachments/assets/e5698a3d-bc4a-42b2-9837-59fdf7cffd84" />
-<img width="1224" height="607" alt="image" src="https://github.com/user-attachments/assets/fff1aea7-44fa-4fc3-95d2-28fff9d23819" />
-
 
 
 ### Part 3: DOM Manipulation with jQuery
