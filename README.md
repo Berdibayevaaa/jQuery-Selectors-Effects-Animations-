@@ -27,9 +27,8 @@
 - **Task 5:** Appending, prepending, and removing skills with empty check.
 - **Task 6:** Modifying link `href` attribute dynamically using `.attr()`.
 - **Task 7:** Real-time form mirroring via `.val()` and `.text()`.
+- <img width="798" height="340" alt="image" src="https://github.com/user-attachments/assets/e8c41447-5a4b-4489-84e2-cd9af39f0497" />
 <img width="879" height="647" alt="image" src="https://github.com/user-attachments/assets/3d040c3d-ecc3-46d1-bcc0-1dbd20f360c1" />
-<img width="1225" height="484" alt="image" src="https://github.com/user-attachments/assets/7e82c5a6-4aa3-4a8d-af08-39057bceffbe" />
-
 
 ### Part 4: Animations
 - **Task 8:** Animated skill progress bars using `.animate()` to target percentages and toggling back to zero.
