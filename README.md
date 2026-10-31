@@ -12,6 +12,7 @@
 - **Task 0:** Setup jQuery via CDN and logged message into console.
 - **Task 1:** Selectors (tag, class, ID), dynamic text, css change, and theme toggle.
 <img width="1287" height="769" alt="image" src="https://github.com/user-attachments/assets/6e6ae620-c4b5-4c14-8b73-47ef61464abe" />
+<img width="1100" height="559" alt="image" src="https://github.com/user-attachments/assets/05ce7c68-4458-489e-b89f-f6eca7c3bad1" />
 
 ### Part 2: jQuery Effects
 - **Task 2:** Visibility controls (`.hide()`, `.show()`, `.toggle()`).
