@@ -1,0 +1,11 @@
+.track {
+  width: 200px;
+  background: gray;
+  height: 15px;
+}
+
+.bar {
+  width: 0;
+  height: 15px;
+  background: green;
+}
